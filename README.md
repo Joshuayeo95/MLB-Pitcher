@@ -1,2 +1,2 @@
 # MLB-Pitcher
-Linear Regression Data Analysis on the different aspects of pitching and their relationship with a pitcher's win rate in the Major League Baseball.
+Linear Regression Data Analysis on the different aspects of __pitching__ and their relationship with a __Pitcher's win rate__ in the Major League Baseball.
